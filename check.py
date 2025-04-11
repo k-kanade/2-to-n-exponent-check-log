@@ -82,7 +82,7 @@ def check_files(folder_path, output_file, include_subdirs=True):
             is_valid, expected, actual = check_file_content(file_path, n)
             rel_path = os.path.relpath(file_path, folder_path)
             if is_valid:
-                print(f"ファイル {rel_path} は正しいです: 内容は 2^{n} です。")
+                print(f"ファイル {rel_path} は正しいです")
                 ok_numbers.append((n, rel_path))
             else:
                 print(f"エラー: ファイル {rel_path} の内容が一致しません。")
