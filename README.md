@@ -13,3 +13,7 @@ nの範囲のリポジトリURLです。<br>
 ✅350001-399999:https://github.com/k-kanade/2-to-n-exponent-350001-399999<br>
 △400000-450000:https://github.com/k-kanade/2-to-n-exponent-400000-450000<br>
 △450001-499999:https://github.com/k-kanade/2-to-n-exponent-450001-499999<br>
+△500000-525000:https://github.com/k-kanade/2-to-n-exponent-500000-525000<br>
+△525001-550000:https://github.com/k-kanade/2-to-n-exponent-525001-550000<br>
+△550001-575000:https://github.com/k-kanade/2-to-n-exponent-550001-575000<br>
+△575001-599999:https://github.com/k-kanade/2-to-n-exponent-575001-599999<br>
