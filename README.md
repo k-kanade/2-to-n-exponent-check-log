@@ -16,7 +16,7 @@ nの範囲のリポジトリURLです。<br>
 ✅500000-525000:https://github.com/k-kanade/2-to-n-exponent-500000-525000<br>
 ✅525001-550000:https://github.com/k-kanade/2-to-n-exponent-525001-550000<br>
 ✅550001-575000:https://github.com/k-kanade/2-to-n-exponent-550001-575000<br>
-△575001-599999:https://github.com/k-kanade/2-to-n-exponent-575001-599999<br>
+✅575001-599999:https://github.com/k-kanade/2-to-n-exponent-575001-599999<br>
 △600000-625000:https://github.com/k-kanade/2-to-n-exponent-600000-625000<br>
 △625001-650000:https://github.com/k-kanade/2-to-n-exponent-625001-650000<br>
 △650001-675000:https://github.com/k-kanade/2-to-n-exponent-650001-675000<br>
@@ -25,3 +25,11 @@ nの範囲のリポジトリURLです。<br>
 △725001-750000:https://github.com/k-kanade/2-to-n-exponent-725001-750000<br>
 △750001-775000:https://github.com/k-kanade/2-to-n-exponent-750001-775000<br>
 △775001-799999:https://github.com/k-kanade/2-to-n-exponent-775001-799999<br>
+△800000-825000:https://github.com/k-kanade/2-to-n-exponent-800000-825000<br>
+△825001-850000:https://github.com/k-kanade/2-to-n-exponent-825001-850000<br>
+△850001-875000:https://github.com/k-kanade/2-to-n-exponent-850001-875000<br>
+△875001-899999:https://github.com/k-kanade/2-to-n-exponent-875001-899999<br>
+×900000-925000:https://github.com/k-kanade/2-to-n-exponent-900000-925000<br>
+×925001-950000:https://github.com/k-kanade/2-to-n-exponent-925001-950000<br>
+×950001-975000:https://github.com/k-kanade/2-to-n-exponent-950001-975000<br>
+×975001-999999:https://github.com/k-kanade/2-to-n-exponent-975001-999999<br>
